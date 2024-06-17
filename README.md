@@ -4,7 +4,7 @@
 This project is a digital clock built with HTML, CSS, and a bit of JavaScript. It features a clean and modern design that displays the time digitally and updates in real-time.
 
 ## Live Preview
-Check out the live version of the digital clock [here]Check out the live version of the digital clock [here](https://github.com/CodeStackr007/DIGITAL-CLOCK).
+Check out the live version of the digital clock [here]Check out the deployed live version of the digital clock [here](https://digital-clock-psi-flax.vercel.app/).
 
 ## Features
 - Digital display of time
