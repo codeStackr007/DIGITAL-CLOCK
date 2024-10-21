@@ -44,14 +44,14 @@
   position: absolute;
   width: 180px;
   height: 180px;
+  border-radius: 50%;
   z-index: -1;
 }
 
 .container::before {
   background: #f41b75;
-  left: -50px;
-  top: -50px;
-  border-radius: 42px; /* Set border radius for the pink container */
+  left: -70px; /* Move the pink container further left */
+  top: -70px;  /* Move the pink container further up */
 }
 
 .container::after {
