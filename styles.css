@@ -44,7 +44,6 @@
   position: absolute;
   width: 180px;
   height: 180px;
-  border-radius: 50%;
   z-index: -1;
 }
 
@@ -52,12 +51,14 @@
   background: #f41b75;
   left: -50px;
   top: -50px;
+  border-radius: 42px; /* Set border radius for the pink container */
 }
 
 .container::after {
   background: #419aff;
   right: -30px;
   bottom: -30px;
+  border-radius: 50%; /* Keep the default border radius for the blue container */
 }
 
 .clock span {
